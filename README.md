@@ -32,14 +32,12 @@ Principais tecnologias: React JS, Styled-Components, Hooks, API Rest, Router.
 
  Clonar o repositorio:
 ```bash
-$ git clone https://github.com/Lets-DavIt/Ifuture.git
+$ git clone https://github.com/Lets-DavIt/projeto-promobit.git
 ```
 Acessar o repertório:
 ```bash
-$ cd https://github.com/Lets-DavIt/Ifuture.git
+$ cd https://github.com/Lets-DavIt/projeto-promobit.git
 ```
-Acessar site no surge:
-- <a href="https://davi-labefood.surge.sh/" target="_blank">davi-labefood.surge.sh</a>
 ****
 ## ✒️ Author
 
