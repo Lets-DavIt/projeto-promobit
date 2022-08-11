@@ -1,13 +1,13 @@
-<h1 align="center">Ifuture</h1>
+<h1 align="center">Promobit</h1>
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-como-executar">Como executar</a>&nbsp;&nbsp;&nbsp;
-  
 
 
-<p align="center"><img src='https://user-images.githubusercontent.com/98923819/184248020-b8ff56e6-8a64-4310-b723-b8125e4db99c.png' alt='print'></p>
+
+<p align="center"><img src='https://user-images.githubusercontent.com/98923819/184251691-b42c5b6a-946d-4fae-8d86-325d09009c64.png' alt='print'></p>
 
 
 
