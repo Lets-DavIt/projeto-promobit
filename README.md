@@ -24,9 +24,9 @@ Projeto desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Ifuture, site mobile first criado para fins didáticos do curso Web Full Stack da Labenu.
-O site tenta criar uma versão simplificada da grande marca Ifood.
-Principais tecnologias: React JS, Styled-Components, Material UI, Hooks, API Rest, Router e Context.
+Promobit, site desktop first criado para fins didáticos do curso Web Full Stack da Labenu.
+Site realizado de um desafio, o mesmo consistia em criar um site para buscar filmes e ver seus detalhes, contando com um design no figma e uma API pública.
+Principais tecnologias: React JS, Styled-Components, Hooks, API Rest, Router.
 
 ## 🚀 Como executar
 
